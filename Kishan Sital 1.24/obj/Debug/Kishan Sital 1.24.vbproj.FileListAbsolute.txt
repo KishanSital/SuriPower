@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.exe.config
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.exe
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.pdb
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.xml
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan_Sital_1._24.frmKishanSital.resources
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan_Sital_1._24.Resources.resources
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.exe
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.xml
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.pdb
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan_Sital_1._24.frmCalculator.resources
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan_Sital_1._24.frmLogin.resources
+C:\Users\User\Desktop\Visual Studio\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan_Sital_1._24.frmProgress.resources
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.exe.config
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.exe
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.xml
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.pdb
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.exe
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.pdb
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.xml
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan_Sital_1._24.frmProgress.resources
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan_Sital_1._24.frmKishanSital.resources
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan_Sital_1._24.Resources.resources
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan_Sital_1._24.frmCalculator.resources
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan_Sital_1._24.frmLogin.resources
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.exe.manifest
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.application
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.exe.manifest
+C:\Users\User\Desktop\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.application
+C:\Users\User\Desktop\leerjaar1\Kishan Sital 1.24\Kishan Sital 1.24\bin\Debug\Kishan Sital 1.24.exe.config
+C:\Users\User\Desktop\leerjaar1\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.exe
+C:\Users\User\Desktop\leerjaar1\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.xml
+C:\Users\User\Desktop\leerjaar1\Kishan Sital 1.24\Kishan Sital 1.24\obj\Debug\Kishan Sital 1.24.pdb
